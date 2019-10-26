@@ -1,4 +1,3 @@
-Learn more or give us feedback
 class PigLatinizer
 
     def piglatinize(string)
